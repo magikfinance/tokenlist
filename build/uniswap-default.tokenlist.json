@@ -60,22 +60,6 @@
       "decimals": 8,
       "chainId": 2000,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599/logo.png"
-    },
-    {
-      "name": "Wrapped Doge",
-      "address": "0xb7ddc6414bf4f5515b52d8bdd69973ae205ff101",
-      "symbol": "WDOGE",
-      "decimals": 18,
-      "chainId": 2000,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x7D1AfA7B718fb893dB30A3aBc0Cfc608AaCfeBB0/logo.png"
-    },
-    {
-      "name": "Dai Stablecoin",
-      "address": "0xcB1e72786A6eb3b44C2a2429e317c8a2462CFeb1",
-      "symbol": "DAI",
-      "decimals": 18,
-      "chainId": 80001,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png"
     }
   ]
 }
