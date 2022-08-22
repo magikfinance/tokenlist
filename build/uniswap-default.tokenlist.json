@@ -14,30 +14,6 @@
   ],
   "tokens": [
     {
-      "name": "Dai Stablecoin",
-      "address": "0x639A647fbe20b6c8ac19E48E2de44ea792c62c5C",
-      "symbol": "DAI",
-      "decimals": 18,
-      "chainId": 2000,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png"
-    },
-    {
-      "name": "QuickSwap(NEW)",
-      "address": "0x6FC4563460d5f45932C473334d5c1C5B4aEA0E01",
-      "symbol": "QUICK(NEW)",
-      "decimals": 18,
-      "chainId": 2000,
-      "logoURI": "https://i.ibb.co/HGWTLM7/Quick-Icon-V2.png"
-    },
-    {
-      "name": "QuickSwap(OLD)",
-      "address": "0x6FC4563460d5f45932C473334d5c1C5B4aEA0E01",
-      "symbol": "QUICK(OLD)",
-      "decimals": 18,
-      "chainId": 2000,
-      "logoURI": "https://raw.githubusercontent.com/sameepsi/quickswap-interface/master/public/favicon.jpeg"
-    },
-    {
       "name": "USD Coin",
       "address": "0x765277EebeCA2e31912C9946eAe1021199B39C61",
       "symbol": "USDC",
