@@ -1,0 +1,81 @@
+{
+  "name": "Quickswap Token List",
+  "timestamp": "2022-08-03T09:55:54.422Z",
+  "version": {
+    "major": 1,
+    "minor": 2,
+    "patch": 45
+  },
+  "tags": {},
+  "logoURI": "ipfs://QmQ9GCVmLQkbPohxKeCYkbpmwfTvHXrY64TmBsPQAZdbqZ",
+  "keywords": [
+    "uniswap",
+    "default"
+  ],
+  "tokens": [
+    {
+      "name": "Dai Stablecoin",
+      "address": "0x639A647fbe20b6c8ac19E48E2de44ea792c62c5C",
+      "symbol": "DAI",
+      "decimals": 18,
+      "chainId": 2000,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png"
+    },
+    {
+      "name": "QuickSwap(NEW)",
+      "address": "0x6FC4563460d5f45932C473334d5c1C5B4aEA0E01",
+      "symbol": "QUICK(NEW)",
+      "decimals": 18,
+      "chainId": 2000,
+      "logoURI": "https://i.ibb.co/HGWTLM7/Quick-Icon-V2.png"
+    },
+    {
+      "name": "QuickSwap(OLD)",
+      "address": "0x6FC4563460d5f45932C473334d5c1C5B4aEA0E01",
+      "symbol": "QUICK(OLD)",
+      "decimals": 18,
+      "chainId": 2000,
+      "logoURI": "https://raw.githubusercontent.com/sameepsi/quickswap-interface/master/public/favicon.jpeg"
+    },
+    {
+      "name": "USD Coin",
+      "address": "0x765277EebeCA2e31912C9946eAe1021199B39C61",
+      "symbol": "USDC",
+      "decimals": 6,
+      "chainId": 2000,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+    },
+    {
+      "name": "Tether USD",
+      "address": "0x42fDB358e6a8526CD0ACaB47D72CaFFc6D95DD2f",
+      "symbol": "USDT",
+      "decimals": 6,
+      "chainId": 2000,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
+    },
+    {
+      "name": "Wrapped BTC",
+      "address": "0xfA9343C3897324496A05fC75abeD6bAC29f8A40f",
+      "symbol": "WBTC",
+      "decimals": 8,
+      "chainId": 2000,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599/logo.png"
+    },
+    {
+      "name": "Wrapped Doge",
+      "address": "0xb7ddc6414bf4f5515b52d8bdd69973ae205ff101",
+      "symbol": "WDOGE",
+      "decimals": 18,
+      "chainId": 2000,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x7D1AfA7B718fb893dB30A3aBc0Cfc608AaCfeBB0/logo.png"
+    },
+    {
+      "name": "Dai Stablecoin",
+      "address": "0xcB1e72786A6eb3b44C2a2429e317c8a2462CFeb1",
+      "symbol": "DAI",
+      "decimals": 18,
+      "chainId": 80001,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png"
+    }
+  ]
+}
